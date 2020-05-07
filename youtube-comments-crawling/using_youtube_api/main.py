@@ -21,5 +21,5 @@ def start_text_cleaning(directory_path=STORE_FILE_PATH):
 if __name__ == "__main__":
     # start_crawlling(VIDEO_IDS)
     
-    start_text_cleaning('D:\\02-yscec\\2020-1\\DataVisualization\\final-term\\source_data\\interview\\')
+    start_text_cleaning('')
     
