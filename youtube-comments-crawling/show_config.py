@@ -5,6 +5,7 @@ VIDEO_IDS = {
         'nonstop' : 'iDjQSdN_ig8',
         'the_fifth_season' : 'udGwca1HBM4',
         'bungee' : 'QTD_yleCK9Y',
+        'closer': 'isUudT58Xfk',
     },
     'chungha': {
         'stay_tonight': 'YPFIh0dfYfw',
@@ -34,7 +35,8 @@ VIDEO_IDS = {
     'zico': {
         'anysong': 'UuV2BmJ1p_I',
         'icy': 'ewjucLierFc',
-        'i_am_you_you_are_me' : 'obzb7nlpXZ0'
+        'i_am_you_you_are_me' : 'obzb7nlpXZ0',
+        'shes_baby': 'ohSpvSGXfhY'
     },
     'bts': {
         'on': 'mPVDGOVjRQ0',
@@ -54,7 +56,8 @@ VIDEO_IDS = {
     'in_real_life': {
         'she_do': 'TXTMIhhdRpE',
         'tonight_belongs_to_you': 'xARyV3h1SB0',
-        'tatoo' : 'TqDg-PLCJiE'
+        'tatoo' : 'TqDg-PLCJiE',
+        'eyes_closed': 'TU72VrQEzsA'
     },
     'prettymuch': {
         'blind': 'j4FL7CMustE',
@@ -100,5 +103,5 @@ VIDEO_IDS = {
         'say_so': 'pok8H_KF1FA',
         'boss_bitch': 'RsW66teC0BQ',
         'juicy' : 'YIALlhlyqO4'
-    }
+    },
 }
