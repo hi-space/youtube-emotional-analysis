@@ -2,7 +2,7 @@
 
 ---
 
-Download from this link: [Source Data](https://drive.google.com/open?id=1-LhYUxZei-Xs74VcjmzdL-WJZAQo7IWr)
+**Download from this link**: [Source Data](https://drive.google.com/open?id=1xjJoiCX9u4bhcja9vklEyVlup6E21zph)
 
 ---
 
@@ -37,18 +37,18 @@ Download from this link: [Source Data](https://drive.google.com/open?id=1-LhYUxZ
 - spit it out(뱉어) / https://www.youtube.com/watch?v=bD06B-5SsSE
   - 7413
 - egotistic / https://www.youtube.com/watch?v=pHtxTSiPh5I
-  - 0
+  - 20100
 - starry night / https://www.youtube.com/watch?v=0FB2EoKTK_Q
-  - 0
+  - 20100
 
 ### (여자)아이들 
 
 - Oh my god / https://www.youtube.com/watch?v=om3n2ni8luE
-  - 0
+  - 20100
 - LATATA / https://www.youtube.com/watch?v=9mQk7Evt6Vs
-  - 0
+  - 20100
 - 한 / https://www.youtube.com/watch?v=OKNXn2qCEws
-  - 65400
+  - 20100
 
 ### ITZY
 
@@ -64,7 +64,7 @@ Download from this link: [Source Data](https://drive.google.com/open?id=1-LhYUxZ
 - Ridin / https://www.youtube.com/watch?v=vofjeJvRT9c
   - 20100
 - Boom / https://www.youtube.com/watch?v=X-iJZ0gfKPo
-  - 0
+  - 20100
 - we go up / https://www.youtube.com/watch?v=LV1Es22E0RI
   - 20100
 
@@ -135,7 +135,7 @@ Download from this link: [Source Data](https://drive.google.com/open?id=1-LhYUxZ
 - perfect / https://www.youtube.com/watch?v=Ho32Oh6b4jc
   - 20100
 - Drag Me Down / https://www.youtube.com/watch?v=Jwgf3wmiA04
-  - 0
+  - 20100
 - history / https://www.youtube.com/watch?v=yjmp8CoZBIo
   - 20100
 

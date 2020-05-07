@@ -28,7 +28,7 @@
 - https://www.youtube.com/watch?v=jYKnUJNIysA 256개
   - 196
 - https://www.youtube.com/watch?v=xX06wyXaOMg 123개
-  - 링크 잘못됨(수정)
+  - 103
 
 ## 마마무
 - https://www.youtube.com/watch?v=bsE4Ar5VtvU 485개
