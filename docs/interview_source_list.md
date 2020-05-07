@@ -135,8 +135,8 @@
   - 2222
 
 ## little mix
-- https://www.youtube.com/watch?v=quV—Ic1FBI&t=147s 1138개
-  - 링크 잘못됨
+- https://www.youtube.com/watch?v=jVHsXdsAO-U 1825개
+  - 1392
 - https://www.youtube.com/watch?v=p09LHEdvcxo 159개
   - 94
 - https://www.youtube.com/watch?v=_Y13PlhYH1M 553개

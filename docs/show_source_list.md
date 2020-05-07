@@ -22,6 +22,8 @@
   - 10743
 - BUNGEE (Fall in Love)  https://www.youtube.com/watch?v=QTD_yleCK9Y
   - 6680
+- CLOSER https://www.youtube.com/watch?v=isUudT58Xfk
+  - 7734
 
 ### 청하 
 
@@ -76,6 +78,8 @@
   - 8999
 - artist / https://www.youtube.com/watch?v=obzb7nlpXZ0
   - 6748
+- she's a baby / https://www.youtube.com/watch?v=ohSpvSGXfhY
+  - 9313
 
 ### 방탄소년단
 
@@ -116,6 +120,8 @@
 - 여성: little mix / 두아리파 / Fifth Harmony / 아리아나 그란데 / doja cat
 
 ### In real life
+- Eyes Closed / https://www.youtube.com/watch?v=TU72VrQEzsA
+  - 2686
 - she do / https://www.youtube.com/watch?v=TXTMIhhdRpE
   - 698
 - Tonight Belongs to You / https://www.youtube.com/watch?v=xARyV3h1SB0
