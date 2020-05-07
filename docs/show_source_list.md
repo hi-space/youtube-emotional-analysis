@@ -71,7 +71,7 @@
 ### 지코
 
 - 아무노래 / https://www.youtube.com/watch?v=UuV2BmJ1p_I
-  - 13231
+  - 13238
 - 너는 나 나는 너 / https://www.youtube.com/watch?v=ewjucLierFc
   - 8999
 - artist / https://www.youtube.com/watch?v=obzb7nlpXZ0
