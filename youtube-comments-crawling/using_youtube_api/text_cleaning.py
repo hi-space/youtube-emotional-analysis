@@ -12,5 +12,11 @@ def is_hangul(s):
         return False
     return True
 
+def is_english(s):
+    result = ENGLISH.sub('', s).strip()
+    if len(result) == 0:
+        return False
+    return True
+
 def refine_sentence(s):
     return LETTERS.sub('', s)

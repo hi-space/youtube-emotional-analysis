@@ -1,5 +1,6 @@
 KEY=""
 STORE_FILE_PATH= ""
+PREPROCESSING_PATH=""
 LOG_FILE="log.txt"
 
 VIDEO_IDS = {

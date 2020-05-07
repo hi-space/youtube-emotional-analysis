@@ -3,7 +3,7 @@ import csv
 import time
 
 from config import *
-from text_cleaning import *
+from text_cleaning import is_hangul
 from utils import *
 
 
